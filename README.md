@@ -20,6 +20,7 @@ jsQRCode - a chrome extension
 
 [step1.1]: ./images/step1.1.png "step 1.1"
 [step1.2]: ./images/step1.2.png "step 1.2"
+[step2]: ./images/step2.png "step 2"
 [step3]: ./images/step3.png "step 3"
 [step4]: ./images/step4.png "step 4"
 [step5]: ./images/step5.png "step 5"

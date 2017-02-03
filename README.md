@@ -7,4 +7,7 @@ How to
 2、open the chrome browner 
 3、visit tab chrome://extensions/
 4、enable developer mode
-5、
+5、click "Load unpacked extension…" button and select path-to-unzip
+
+
+

@@ -22,8 +22,8 @@ jsQRCode - a chrome extension
 [step1.2]: ./images/step1.2.png "step 1.2"
 [step3]: ./images/step3.png "step 3"
 [step4]: ./images/step4.png "step 4"
-[step5]: ./images/step4.png "step 5"
-[step6]: ./images/step4.png "step 6"
+[step5]: ./images/step5.png "step 5"
+[step6]: ./images/step6.png "step 6"
 
 #Bandwagon Effect
 

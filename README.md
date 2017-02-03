@@ -9,7 +9,7 @@ jsQRCode - a chrome extension
 5. click "Load unpacked extension…" button and select ***`path-to-unzip`***
 6. finished
 
-# Image Show
+# Image Show (for How to use it)
 1. ![step 1.1][step1.1] <br>
    ![step 1.2][step1.2]
 2. ![step 2][step2]
@@ -19,5 +19,14 @@ jsQRCode - a chrome extension
 6. ![step 6][step6]
 
 [step1.1]: ./images/step1.1.png "step 1.1"
+[step1.2]: ./images/step1.2.png "step 1.2"
+[step3]: ./images/step3.png "step 3"
+[step4]: ./images/step4.png "step 4"
+[step5]: ./images/step4.png "step 5"
+[step6]: ./images/step4.png "step 6"
 
+#Bandwagon Effect
+
+![Bandwagon Effect][bandwagon_effect]
+[bandwagon_effect]: ./images/bandwagon_effect.png "Bandwagon Effect"
 
